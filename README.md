@@ -16,7 +16,7 @@ West Lafayette, IN, USA
 
 ## Academic Experience
 
-```
+```markdown
 ### Research Assistant at School of Environmental and Ecological Engineering
 Supervised by Dr. John W. Sutherland
 ```
