@@ -2,7 +2,7 @@
 
 Sidi Deng 
 
-<img align = 'right' width = "96" src="/Image/Image.png" >
+<img align = 'right' width = "150" src="/Image/Image.png" >
 
 
 Industrial Engineering
@@ -13,7 +13,6 @@ Purdue University
 
 West Lafayette, IN, USA
 
-<img src="https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image/Image.png?raw=true" width = "96">
 
 
 ## Academic Experience
