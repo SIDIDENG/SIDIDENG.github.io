@@ -13,7 +13,7 @@ Purdue University
 
 West Lafayette, IN, USA
 
-<img width = 96 src="/Image/Image.png" >
+<img src="/Image/Image.png" >
 
 
 ## Academic Experience
