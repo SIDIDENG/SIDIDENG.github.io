@@ -20,10 +20,6 @@ West Lafayette, IN, USA
 
 PhD in Industrial Engineering (GPA 4.0/4.0) 
 
-
-
-
-
 Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, System Simulation
 
 ## Academic Experience
