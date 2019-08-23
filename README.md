@@ -13,7 +13,7 @@ Purdue University
 
 West Lafayette, IN, USA
 
-<img src="/Image/Image.png" >
+<img src="https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image/Image.png?raw=true" >
 
 
 ## Academic Experience
