@@ -18,13 +18,6 @@ West Lafayette, IN, USA
 
 **Purdue University**(West Lafayette, IN)
 
-<p style="text-align:left;">
-    This text is left aligned
-    <span style="float:right;">_______________________________________his text is right aligned</span>
-    </p>
-    
-<div align="left">PhD in Industrial Engineering (GPA 4.0/4.0)</div>
-<div align="right">January 2018-Present</div>
 
 
 <p style="text-align:left;">
