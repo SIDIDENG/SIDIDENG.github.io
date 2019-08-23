@@ -1,10 +1,15 @@
 ## Welcome to My Pages
 
 Sidi Deng
+
 Industrial Engineering
+
 Environmental and Ecological Engineering
+
 Purdue University
+
 West Lafayette, IN, USA
+
 
 ### Markdown
 
