@@ -14,6 +14,12 @@ Purdue University
 West Lafayette, IN, USA
 
 
+## Education
+**Purdue University**(West Lafayette, IN)
+
+PhD in Industrial Engineering (GPA 4.0/4.0) <div style="text-align:right">January 2018-Present</div>
+
+Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, System Simulation
 
 ## Academic Experience
 ### Research Assistant at School of Environmental and Ecological Engineering
