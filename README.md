@@ -1,6 +1,7 @@
 ## Resume
 
 Sidi Deng 
+
 <img align= 'right' src="https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image.png" width = 300>
 
 Industrial Engineering
