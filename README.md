@@ -16,8 +16,7 @@ West Lafayette, IN, USA
 
 ## Education
 
-**Purdue University**(West Lafayette, IN)
-<div align="right">
+**Purdue University**(West Lafayette, IN) <div align="right">
   January 2018-Present
 </div>
 
