@@ -21,7 +21,12 @@ West Lafayette, IN, USA
 <div align="right">January 2018-Present</div>
 
 
-
+<p style="text-align:left;">
+  PhD in Industrial Engineering
+  <span style="float:right;">
+    January 2018-Present
+  </span>
+</p>
 
 Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, System Simulation
 
