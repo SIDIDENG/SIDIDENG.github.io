@@ -20,7 +20,7 @@ West Lafayette, IN, USA
 
 PhD in Industrial Engineering (GPA 4.0/4.0) 
 
-<div style="text-align: right">
+<div align="right">
   January 2018-Present
 </div>
 
