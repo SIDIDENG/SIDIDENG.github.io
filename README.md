@@ -20,7 +20,7 @@ West Lafayette, IN, USA
 
 <p style="text-align:left;">
     This text is left aligned
-    <span style="float:right;">This text is right aligned</span>
+    <span style="float:right;">                             This text is right aligned</span>
     </p>
     
 <div align="left">PhD in Industrial Engineering (GPA 4.0/4.0)</div>
