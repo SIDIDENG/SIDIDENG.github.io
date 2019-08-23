@@ -14,7 +14,7 @@ West Lafayette, IN, USA
 
 
 
-### Markdown
+## Academic Experience
 
 Here's an image
 
