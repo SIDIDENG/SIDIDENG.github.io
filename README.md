@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Here's an image
-![](https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image.png?raw=true| width = 100)
+![](https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image.png| width = 100)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
