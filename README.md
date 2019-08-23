@@ -68,6 +68,5 @@ Data Analysis, regression analysis, and simulation modeling are required for thi
 
 ### Other Information
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+I am affiliated with both [School of Industrial Engineering](https://engineering.purdue.edu/IE) and [Environmental and Ecological Engineering](https://engineering.purdue.edu/EEE) at Purdue University.
 
