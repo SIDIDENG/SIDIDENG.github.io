@@ -18,10 +18,10 @@ West Lafayette, IN, USA
 
 **Purdue University**(West Lafayette, IN)
 
-<div align="right">January 2018-Present</div>
+PhD in Industrial Engineering (GPA 4.0/4.0)<div align="right">January 2018-Present</div>
 
 
-PhD in Industrial Engineering
+
 
 
 Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, System Simulation
