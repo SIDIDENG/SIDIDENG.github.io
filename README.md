@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sidi Deng
+Industrial Engineering
+Environmental and Ecological Engineering
+Purdue University
+West Lafayette, IN, USA
 
 ### Markdown
 
