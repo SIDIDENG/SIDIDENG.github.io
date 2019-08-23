@@ -1,8 +1,8 @@
 ## Resume
 
-Sidi Deng 
+Sidi Deng <img align = 'right' width = "150" src="/Image/Image.png" >
 
-<img align = 'right' width = "150" src="/Image/Image.png" >
+
 
 
 Industrial Engineering
