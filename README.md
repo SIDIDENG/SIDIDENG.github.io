@@ -17,6 +17,12 @@ West Lafayette, IN, USA
 ## Education
 
 **Purdue University**(West Lafayette, IN)
+
+<p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">This text is right aligned</span>
+    </p>
+    
 <div align="left">PhD in Industrial Engineering (GPA 4.0/4.0)</div>
 <div align="right">January 2018-Present</div>
 
