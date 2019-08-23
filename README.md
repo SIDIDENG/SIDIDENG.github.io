@@ -10,13 +10,14 @@ Purdue University
 
 West Lafayette, IN, USA
 
+<img align= 'right' src="https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image.png" width = 300>
 
 ### Markdown
 
 Here's an image
 
 
-<img src="https://github.com/IchimonjiDouble/IchimonjiDouble.github.io/blob/master/Image.png" width = 300>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
