@@ -32,13 +32,13 @@ Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, Sys
 
 Master of Science in Industrial Engineering (GPA 3.84/4.0)
 
-Main Directions: Stochastic Model, Simulation, Applied Statistics, Optimization
+Main Directions: Stochastic Model, Applied Statistics, Numerical Optimization
 
 ## Academic Experience
 ### Research Assistant at School of Environmental and Ecological Engineering
 May 2018- Present
 
-Supervised by Dr. John W. Sutherland, collaborating with research partners in Critical Materials Institute (CMI), conduct techno-economic analysis (TEA) on their new material recycling technologies. Study estimation method for research projects at early technology readiness level. Develop and upgrade user-friendly TEA software using Python. Offer TEA consultations through annual meetings and webinars.
+Supervised by Dr. John W. Sutherland, collaborating with research partners in Critical Materials Institute (CMI), to conduct techno-economic analysis (TEA) on their newly-developed material recovery technologies. Establish parameter estimation model by machine learning and simulation to make proper assumptions. Develop and upgrade user-friendly TEA software using Python. Offer TEA consultations through annual meetings and webinars.
 
 ### Research Assistant at School of Industrial Engineering, Purdue University
 January 2018-May 2018
