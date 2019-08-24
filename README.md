@@ -38,7 +38,7 @@ Main Directions: Stochastic Model, Applied Statistics, Numerical Optimization
 ### Research Assistant at School of Environmental and Ecological Engineering
 May 2018- Present
 
-Supervised by Dr. John W. Sutherland, collaborating with research partners in Critical Materials Institute (CMI), to conduct techno-economic analysis (TEA) on their newly-developed material recovery technologies. Establish parameter estimation model by machine learning and simulation to make proper assumptions. Develop and upgrade user-friendly TEA software using Python. Offer TEA consultations through annual meetings and webinars.
+Supervised by Dr. John W. Sutherland, collaborating with research partners in Critical Materials Institute (CMI), to conduct techno-economic analysis (TEA) on their newly-developed material recovery technologies. Establish parameter estimation model by machine learning and simulation to make proper assumptions at early stage. Develop and upgrade user-friendly TEA software using Python. Offer TEA consultations through annual meetings and webinars.
 
 ### Research Assistant at School of Industrial Engineering, Purdue University
 January 2018-May 2018
