@@ -19,7 +19,7 @@ West Lafayette, IN, USA
 ## Education
 <div align="right">January 2018-Present</div>
 
-**Purdue University**(West Lafayette, IN)
+**Purdue University** (West Lafayette, IN)
 
 PhD in Industrial Engineering (GPA 4.0/4.0)
 
@@ -28,7 +28,7 @@ Research Areas: Machine Learning, Techno-Economic Assessment, Data Analysis, Sys
 
 <div align="right">August 2015-May 2017</div>
 
-**Purdue University**(West Lafayette, IN)
+**Purdue University** (West Lafayette, IN)
 
 Master of Science in Industrial Engineering (GPA 3.84/4.0)
 
