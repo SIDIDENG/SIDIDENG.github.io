@@ -19,22 +19,22 @@ West Lafayette, IN, USA
 ## Education
 <div align="right">January 2018-Present</div>
 
-**Purdue University** (West Lafayette, IN, USA)
+### Purdue University (West Lafayette, IN, USA)
 
-PhD in Industrial Engineering (GPA 4.0/4.0)
+Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
 
-Field of Research: Machine Learning, System Simulation, Data Analysis, Computer-Aided Manufacturing
+**Field of Research**: Machine Learning, System Simulation, Data Analysis, Computer-Aided Manufacturing
 
-Project Focus Areas: Techno-Economic Assessment (TEA), Circular Materials Economy     
+**Project Focus Areas**: Techno-Economic Assessment (TEA), Circular Materials Economy     
 
 <div align="right">August 2015-May 2017</div>
 
-**Purdue University** (West Lafayette, IN, USA)
+### Purdue University (West Lafayette, IN, USA)
 
 Master of Science in Industrial Engineering (GPA 3.84/4.0)
 
-Main Directions: Stochastic Model, Applied Statistics, Numerical Optimization
+**Main Directions**: Stochastic Model, Applied Statistics, Numerical Optimization
 
 ## Academic Experience
 ### Research Assistant at School of Environmental and Ecological Engineering
