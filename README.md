@@ -19,9 +19,9 @@ West Lafayette, IN, USA
 ## Education
 
 
-### Purdue University (West Lafayette, IN, USA)<div align="right">January 2018-Present</div>
+### Purdue University (West Lafayette, IN, USA)
 
-Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
+Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0) <div align="right">January 2018-Present</div>
 
 
 **Field of Research**: Machine Learning, System Simulation, Data Analysis, Computer-Aided Manufacturing
