@@ -17,9 +17,11 @@ West Lafayette, IN, USA
 
 
 ## Education
-<div align="right">January 2018-Present</div>
+
 
 ### Purdue University (West Lafayette, IN, USA)
+
+<div align="right">January 2018-Present</div>
 
 Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
@@ -28,9 +30,11 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
 **Project Focus Areas**: Techno-Economic Assessment (TEA), Circular Materials Economy     
 
-<div align="right">August 2015-May 2017</div>
+
 
 ### Purdue University (West Lafayette, IN, USA)
+
+<div align="right">August 2015-May 2017</div>
 
 Master of Science in Industrial Engineering (GPA 3.84/4.0)
 
