@@ -24,7 +24,7 @@ West Lafayette, IN, USA
 
 Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
-__January 2018-Present__
+<u>January 2018-Present</u>
 
 **Field of Research**: Machine Learning, System Simulation, Data Analysis, Computer-Aided Manufacturing
 
@@ -38,7 +38,7 @@ __January 2018-Present__
 
 Master of Science in Industrial Engineering (GPA 3.84/4.0)
 
-__August 2015-May 2017__
+<u>August 2015-May 2017</u>
 
 **Main Directions**: Stochastic Model, Applied Statistics, Numerical Optimization
 
