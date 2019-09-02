@@ -36,7 +36,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
 
 
-Master of Science in Industrial Engineering (GPA 3.84/4.0)
+Master of Science (M.S.) in Industrial Engineering (GPA 3.84/4.0)
 
 <ins>August 2015-May 2017</ins>
 
