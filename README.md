@@ -2,7 +2,7 @@
 
 ## Biography
 
-Sidi Deng <img align = 'right' width = "150" src="/Image/Image.png" >
+Sidi Deng <img align = 'right' width = "180" src="/Image/ImageNov.jpg" >
 
 
 
