@@ -28,7 +28,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 
 **Field of Research**: Machine Learning, System Dynamics and Control, Data Analysis
 
-**Project Focus Areas**: Techno-Economic Assessment (TEA), Circular Materials Economy     
+**Project Focus Areas**: Techno-Economic Assessment (TEA), Circular Materials Economy, Software Development
 
 
 
