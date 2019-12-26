@@ -66,7 +66,7 @@ May 2016-August 2016
 Supervised by Dr. Harsha Honnappa, analyze a tandem queueing network at which jobs are arriving in batches, and arrival/service rates vary according to the environmental phases. The final goal is to study its potential bottleneck. By using the fluid approximation and diffusion approximation, appropriately approximate the queue length and workload process by fluid or diffusion processes, to further analyze its bottleneck phenomena. Mathematic analysis, measurement theory, matrix calculus, probability theory are involved in this project.
 
 ## Professional Experience:
-## CI Specialist in Gate Gourmet (Hong Kong)  
+### CI Specialist in Gate Gourmet (Hong Kong)  
 June 2017-December 2017
 
 Serve as continuous improvement specialist to optimize existing airline food catering system, supervised by manager Claudio Micucci. Work closely with different internal departments to capture and analyze users’ requirements. Conduct current processes and procedures review to identify improvement chances on a regular basis and propose feasible solutions to enhance production efficiency and effectiveness. 
