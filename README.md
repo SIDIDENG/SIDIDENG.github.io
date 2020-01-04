@@ -2,7 +2,7 @@
 
 ## Biography
 
-Sidi Deng <img align = "right" width = "180" src="/Image/Image2.jpg" title = "Biography" >
+Sidi Deng <img align = "right" width = "180" src="/Image/IMG_6342.JPG" title = "Biography" >
 
 
 
