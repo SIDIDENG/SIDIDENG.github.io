@@ -75,7 +75,7 @@ Data Analysis, regression analysis, and simulation modeling are required for thi
 
 ## Contact Me:
 
-Email: deng100@purdue.edu
+Email: <deng100@purdue.edu>
 
 Purdue University
 
