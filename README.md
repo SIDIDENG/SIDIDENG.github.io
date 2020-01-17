@@ -77,7 +77,7 @@ Data Analysis, regression analysis, and simulation modeling are required for thi
 
 Email: deng100@purdue.edu
 
-Office: Potter Engineering Center, Room 364, 500 Central Drive
+Potter Engineering Center, Room 364, 500 Central Drive
 
 West Lafayette, IN 47907, USA
 
