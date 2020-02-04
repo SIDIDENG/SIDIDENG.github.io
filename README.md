@@ -44,13 +44,12 @@ Master of Science (M.S.) in Industrial Engineering (GPA 3.84/4.0)
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-May 2018- Present
 
 Supported by the Critical Materials Institute, an Energy Innovation Hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
 ## Professional Experience:
 ### CI Specialist in Gate Gourmet (Hong Kong)  
-June 2017-December 2017
+
 
 Serve as continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
 
