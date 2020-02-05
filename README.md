@@ -22,7 +22,7 @@ West Lafayette, IN, USA
 ### Purdue University (West Lafayette, IN, USA)
 
 
-Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
+Doctor of Philosophy (Ph.D.) in Industrial Engineering 
 
 <ins>January 2018-Present</ins>
 
@@ -35,7 +35,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering (GPA 4.0/4.0)
 ### Purdue University (West Lafayette, IN, USA)
 
 
-Master of Science (M.S.) in Industrial Engineering (GPA 3.84/4.0)
+Master of Science (M.S.) in Industrial Engineering 
 
 <ins>August 2015-May 2017</ins>
 
