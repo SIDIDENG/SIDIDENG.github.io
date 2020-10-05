@@ -13,7 +13,7 @@ Environmental and Ecological Engineering
 
 Purdue University
 
-West Lafayette, IN, USA
+West Lafayette, IN 47907, USA
 
 
 ## Education
