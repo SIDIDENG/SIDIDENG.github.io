@@ -44,12 +44,10 @@ Master of Science (M.S.) in Industrial Engineering
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-
-This research program is supported by the Critical Materials Institute, an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
+This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
 ## Professional Experience:
 ### CI Specialist in Gate Gourmet (Hong Kong)  
-
 
 Served as continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
 
