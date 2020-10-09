@@ -49,7 +49,7 @@ This research position is supported by the Critical Materials Institute (CMI), a
 ## Professional Experience:
 ### CI Specialist in Gate Gourmet (Hong Kong)  
 
-Served as continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
+Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
 
 ## Contact Me:
 
