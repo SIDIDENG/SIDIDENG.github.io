@@ -63,7 +63,6 @@ Potter Engineering Center, Room 364
 
 West Lafayette, IN 47907, USA
 
-
 ### Other Information
 
 I am affiliated with both [School of Industrial Engineering](https://engineering.purdue.edu/IE) and [Environmental and Ecological Engineering](https://engineering.purdue.edu/EEE) at Purdue University.
