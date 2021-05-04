@@ -28,7 +28,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 
 **Field of Research**: Machine Learning, System Dynamics and Control, Dynamic Network Analysis
 
-**Project Focus Areas**: Techno-Economic Assessment (TEA), Circular Materials Economy, Software Development
+**Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Circular Materials Economy 
 
 
 
