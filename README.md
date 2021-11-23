@@ -44,10 +44,12 @@ Master of Science (M.S.) in Industrial Engineering
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-Project 1: Optimizing the Economic Performance of CMI Technologies
+**Project 1**: Optimizing the Economic Performance of CMI Technologies
+
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-Project 2: Precious Metal Recovery from E-waste
+**Project 2**: Precious Metal Recovery from E-waste
+
 This research program is sponsored by Phinix, LLC (St. Louis , MO), in collaboration with Virginia Polytechnic Institute and State University.
 
 ## Professional Experience:
