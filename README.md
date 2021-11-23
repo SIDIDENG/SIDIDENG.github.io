@@ -50,7 +50,7 @@ This research position is supported by the Critical Materials Institute (CMI), a
 
 **Project 2**: Precious Metal Recovery from E-waste
 
-This research program is sponsored by Phinix, LLC (St. Louis , MO), in collaboration with Virginia Polytechnic Institute and State University.
+This research program is sponsored by Phinix, LLC (St. Louis , MO), in collaboration with Virginia Tech.
 
 ## Professional Experience:
 ### CI Specialist in Gate Gourmet (Hong Kong)  
