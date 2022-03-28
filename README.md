@@ -54,7 +54,7 @@ This research program is sponsored by Phinix, LLC (St. Louis , MO) in collaborat
 
 ## Professional Experience:
 
-### CMI Leadership Academy 4<sup>th</sup> Cohort (2022), Ames Lab
+### CMI Leadership Academy 4<sup>th</sup> Cohort (2022), Ames Laboratory
 The CMI Leadership Academy is a year-long experience designed to develop leadership and management skills for a select group of emerging leaders within the research community of Critical Materials Institute (CMI). 
 
 ### CI Specialist in Gate Gourmet (2017), Hong Kong  
