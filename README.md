@@ -26,7 +26,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 
 <ins>January 2018-Present</ins>
 
-**Fields of Research**: Machine Learning, Dynamic Network Analysis, Production planning
+**Fields of Research**: Machine Learning, Dynamic Network Analysis, Sustainable Manufacturing Systems
 
 **Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Circular Materials Economy 
 
