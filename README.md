@@ -26,9 +26,9 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 
 <ins>January 2018-Present</ins>
 
-**Fields of Research**: Machine Learning, Dynamic Network Analysis, Sustainable Manufacturing Systems
+**Fields of Research**: Machine Learning, Simulation, Dynamic Systems, Sustainable Manufacturing
 
-**Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Circular Materials Economy 
+**Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Risk Analysis, Circular Economy 
 
 
 
@@ -39,7 +39,7 @@ Master of Science (M.S.) in Industrial Engineering
 
 <ins>August 2015-May 2017</ins>
 
-**Main Directions**: Stochastic Model, Applied Statistics, Numerical Optimization
+**Main Directions**: Stochastic Modeling, Applied Statistics, Numerical Optimization
 
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
@@ -48,9 +48,9 @@ Master of Science (M.S.) in Industrial Engineering
 
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-**Project 2**: Precious Metal Recovery from E-waste
+**Project 2**: Techno-Economic Consulting for Metal Recycling Technologies
 
-This research program is sponsored by Phinix, LLC (St. Louis , MO) in collaboration with Virginia Tech.
+This research program is sponsored by Phinix LLC (St. Louis , MO), in collaboration with other institutions such as Virginia Tech.
 
 ## Professional Experience:
 
