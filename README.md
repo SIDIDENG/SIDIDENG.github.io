@@ -28,7 +28,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 
 **Fields of Research**: Machine Learning, Simulation, Dynamic Systems, Sustainable Manufacturing
 
-**Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Risk Analysis, Circular Economy 
+**Areas of Intervention**: Software Development, Techno-Economic Assessment (TEA), Circular Economy 
 
 
 
@@ -50,7 +50,7 @@ This research position is supported by the Critical Materials Institute (CMI), a
 
 **Project 2**: Techno-Economic Consulting for Metal Recycling Technologies
 
-This research program is sponsored by Phinix LLC (St. Louis , MO), in collaboration with other institutions such as Virginia Tech.
+This research program is sponsored by Phinix LLC (St. Louis , MO), in collaboration with other institutes such as Virginia Tech.
 
 ## Professional Experience:
 
