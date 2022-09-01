@@ -52,22 +52,25 @@ Master of Science (M.S.) in Industrial Engineering
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-**Project 1**: Optimizing the Economic Performance of CMI Technologies
+**Project**: Optimizing the Economic Performance of CMI Technologies
 
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-**Project 2**: Techno-Economic Consulting for Metal Recycling Technologies
-
-This research program is sponsored by Phinix LLC (St. Louis , MO), in collaboration with other institutes such as Virginia Tech.
 
 ## Professional Experience:
 
-### CMI Leadership Academy 4<sup>th</sup> Cohort (2022), Ames Laboratory
+### CMI Leadership Academy 4<sup>th</sup> Cohort (2022 - 2023), Ames Laboratory
 The CMI Leadership Academy is a year-long experience designed to develop leadership and management skills for a select group of emerging leaders within the research community of Critical Materials Institute (CMI). 
+
+### Techno-Economic Consulting for Metal Recycling Technologies (2021 - 2022)
+
+This research program is sponsored by Phinix LLC (St. Louis , MO), in collaboration with other institutes such as Virginia Tech.
 
 ### CI Specialist in Gate Gourmet (2017), Hong Kong  
 
 Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
+
+
 
 ## Contact Me:
 
