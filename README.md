@@ -58,7 +58,7 @@ This research position is supported by the Critical Materials Institute (CMI), a
 
 **Project 2**: NSF Regional Innovation Engines
 
-**Project 3**: National Institute of Standards and Technology: Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
+**Project 3**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
 
 **Teaching**: NSF Model-Based Systems Engineering (MBSE) - Quantitative Statistical Methods
 
