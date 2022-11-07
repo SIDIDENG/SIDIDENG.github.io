@@ -52,8 +52,6 @@ Master of Science (M.S.) in Industrial Engineering
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-**Teaching**: NSF Model-Based Systems Engineering (MBSE) - Quantitative Statistical Methods
-
 **Project 1**: Optimizing the Economic Performance of CMI Technologies
 
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
@@ -61,6 +59,8 @@ This research position is supported by the Critical Materials Institute (CMI), a
 **Project 2**: NSF Regional Innovation Engines
 
 **Project 3**: National Institute of Standards and Technology: Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
+
+**Teaching**: NSF Model-Based Systems Engineering (MBSE) - Quantitative Statistical Methods
 
 ## Professional Experience
 
