@@ -56,7 +56,7 @@ Master of Science (M.S.) in Industrial Engineering
 
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-**Project 2**: NSF Regional Innovation Engines
+**Project 2**: NSF Regional Innovation Engines (led by the University of Michigan)
 
 **Project 3**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
 
