@@ -29,14 +29,17 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 **Fields of Research**
 - Machine learning
 - Simulation
-- Dynamic systems
-- Sustainable manufacturing
+- Manufacturing systems
+- Applied statistics
+
 
 **Areas of Intervention**
-- Software development
+- Sustainable manufacturing
+- Circular economy 
 - Techno-economic assessment (TEA)
 - Life cycle assessment (LCA)
-- Circular economy 
+- Software development
+
 
 
 
