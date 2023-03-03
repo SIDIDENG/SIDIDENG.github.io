@@ -55,15 +55,18 @@ Master of Science (M.S.) in Industrial Engineering
 ## Current Position
 ### Research Assistant at School of Environmental and Ecological Engineering
 
-**Project 1**: Optimizing the Economic Performance of CMI Technologies
+- **Project 1**: Optimizing the Economic Performance of CMI Technologies
 
 This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-**Project 2**: NSF Regional Innovation Engines (led by the University of Michigan)
+- **Project 2**: NSF Regional Innovation Engines (led by the University of Michigan)
 
-**Project 3**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
+- **Project 3**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
 
-**Teaching**: NSF Model-Based Systems Engineering (MBSE) - Quantitative Statistical Methods
+### Teaching: Purdue Engineering Online - NSF Model-Based Systems Engineering (MBSE)
+- Quantitative Statistical Methods
+- Production Engineering and MBSE Applications
+
 
 ## Professional Experience
 
