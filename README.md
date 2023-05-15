@@ -48,7 +48,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 
 Master of Science (M.S.) in Industrial Engineering 
 
-<ins>August 2015-May 2017</ins>
+<ins>August 2015 - May 2017</ins>
 
 **Main Directions**: Stochastic Modeling, Applied Statistics, Numerical Optimization
 
