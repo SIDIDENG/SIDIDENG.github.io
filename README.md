@@ -53,7 +53,7 @@ Master of Science (M.S.) in Industrial Engineering
 **Main Directions**: Stochastic Modeling, Applied Statistics, Numerical Optimization
 
 ## Current Position
-### Research Assistant at School of Environmental and Ecological Engineering
+### Post-Doctoral Research Assistant at School of Environmental and Ecological Engineering
 
 - **Project 1**: Optimizing the Economic Performance of CMI Technologies
 
