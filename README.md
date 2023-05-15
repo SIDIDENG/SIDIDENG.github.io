@@ -24,7 +24,7 @@ West Lafayette, IN 47907, USA
 
 Doctor of Philosophy (Ph.D.) in Industrial Engineering 
 
-<ins>January 2018-Present</ins>
+<ins>January 2018 - May 2023</ins>
 
 **Fields of Research**
 - Machine learning
