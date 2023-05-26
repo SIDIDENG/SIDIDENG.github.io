@@ -2,7 +2,7 @@
 
 ## Biography
 
-Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/29July22.jpg" title = "Biography" >
+Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/14may23_gown.jpeg" title = "Biography" >
 
 
 
