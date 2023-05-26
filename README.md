@@ -9,9 +9,11 @@ Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/14may23_gown.jpe
 
 Postdoctoral Researcher
 
-Environmental and Ecological Engineering, Purdue University, West Lafayette, IN, USA
+Laboratory for Sustainable Manufacturing (LSM)
 
-Ph.D. in Industrial Engineering, Purdue University, West Lafayette, IN, USA
+Environmental and Ecological Engineering
+
+Purdue University, West Lafayette, IN 47907, USA
 
 
 ## Education
