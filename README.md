@@ -6,14 +6,13 @@ Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/14may23_gown.jpe
 
 
 
+Postdoctoral Research Fellow
 
-Postdoctoral Researcher
+Resourceful Manufacturing & Design (ReMaDe) Group
 
-Laboratory for Sustainable Manufacturing (LSM)
+Mechanical Engineering
 
-Environmental and Ecological Engineering
-
-Purdue University, West Lafayette, IN 47907, USA
+University of Michigan, Ann Arbor, MI 48104, USA
 
 
 ## Education
@@ -41,10 +40,7 @@ Doctor of Philosophy (Ph.D.) in Industrial Engineering
 - Software development
 
 
-
-
 ### Purdue University (West Lafayette, IN, USA)
-
 
 Master of Science (M.S.) in Industrial Engineering 
 
@@ -52,8 +48,9 @@ Master of Science (M.S.) in Industrial Engineering
 
 **Main Directions**: Stochastic Modeling, Applied Statistics, Numerical Optimization
 
-## Current Position
-### Post-Doctoral Research Assistant at School of Environmental and Ecological Engineering
+## Academic Experience
+### Post-Doctoral Research Fellow at the Department of Mechanical Engineering, University of Michigan (2023 - now)
+### Post-Doctoral Research Assistant at the School of Environmental and Ecological Engineering, Purdue University (2023)
 
 - **Project 1**: Optimizing the Economic Performance of CMI Technologies
 
@@ -85,17 +82,19 @@ Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a glo
 
 ## Contact Me:
 
-Email: <deng100@purdue.edu>
+### Email 
+- <sidideng@umich.edu>
+- <sdeng@alumni.purdue.edu>
 
-Purdue University
 
-Potter Engineering Center, Room 364
+### Office
+Mechanical Engineering, University of Michigan
 
-500 Central Drive
+1100 HH Dow
 
-West Lafayette, IN 47907, USA
+Ann Arbor, MI 48109-2125, USA
 
 ### Other Information
 
-I am affiliated with both [School of Industrial Engineering](https://engineering.purdue.edu/IE) and [Environmental and Ecological Engineering](https://engineering.purdue.edu/EEE) at Purdue University.
+I am affiliated with the [Department of Mechanical Engineering](https://me.engin.umich.edu/) at the University of Michigan - Ann Arbor.
 
