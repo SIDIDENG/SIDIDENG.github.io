@@ -98,4 +98,4 @@ Ann Arbor, MI 48109-2125, USA
 
 I am affiliated with the [Department of Mechanical Engineering](https://me.engin.umich.edu/) at the University of Michigan - Ann Arbor.
 
-I am from West Lafayette, Indiana.
+I am from West Lafayette, Tippecanoe County, Indiana, USA.
