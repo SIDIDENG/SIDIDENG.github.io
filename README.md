@@ -52,7 +52,7 @@ Master of Science (M.S.) in Industrial Engineering
 ### Post-Doctoral Research Fellow at the Department of Mechanical Engineering, University of Michigan (2023 - now)
 - **Metalscape Project**: Opportunities and Costs in the Transition to Low Carbon U.S. Metals Industries
   
-  Strategies to decarbonize U.S. aluminum consumption in-line with the climate targets. This work is funded by the *Climate Imperative Foundation*
+  Strategies to decarbonize U.S. aluminum consumption in-line with the climate targets. This work is funded by the *Climate Imperative Foundation*.
 
 ### Post-Doctoral Research Assistant at the School of Environmental and Ecological Engineering, Purdue University (2023)
 
