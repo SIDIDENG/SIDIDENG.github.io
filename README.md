@@ -50,19 +50,21 @@ Master of Science (M.S.) in Industrial Engineering
 
 ## Academic Experience
 ### Post-Doctoral Research Fellow at the Department of Mechanical Engineering, University of Michigan (2023 - now)
+- **Metalscape Project**: Opportunities and Costs in the Transition to Low Carbon U.S. Metals Industries
+  
+  Strategies to decarbonize U.S. aluminum consumption in-line with the climate targets. This work is funded by the *Climate Imperative Foundation*
+
 ### Post-Doctoral Research Assistant at the School of Environmental and Ecological Engineering, Purdue University (2023)
 
 - **Project 1**: Optimizing the Economic Performance of CMI Technologies
 
-This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
+  This research position is supported by the Critical Materials Institute (CMI), an energy innovation hub funded by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office.
 
-- **Project 2**: NSF Regional Innovation Engines (led by the University of Michigan)
+- **Project 2**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
 
-- **Project 3**: National Institute of Standards and Technology (NIST) - Development of Manufacturing-relevant Indicators and Preliminary Industry Data for Measuring Progress toward a Circular Economy
-
-### Teaching: Purdue Engineering Online - NSF Model-Based Systems Engineering (MBSE)
-- Quantitative Statistical Methods
-- Production Engineering and MBSE Applications
+- **Teaching**: Purdue Engineering Online - NSF Model-Based Systems Engineering (MBSE)
+  - Module 3: Quantitative Statistical Methods
+  - Module 4: Production Engineering and MBSE Applications
 
 
 ## Professional Experience
