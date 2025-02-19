@@ -2,9 +2,7 @@
 
 ## Biography
 
-Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/14may23_gown.jpeg" title = "Biography" >
-
-
+Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/19feb25.jpeg" title = "Biography" >
 
 Postdoctoral Research Fellow
 
@@ -14,31 +12,27 @@ Mechanical Engineering
 
 University of Michigan, Ann Arbor, MI 48104, USA
 
+**Fields of Research**
+- Simulation
+- Complex System Modeling
+- Applied Statistics
+- Physics-Informed Machine learning
+
+
+**Areas of Intervention**
+- Sustainable Manufacturing Systems
+- Circular Economy and Reverse Supply Chains
+- Techno-Economic Assessment (TEA)
+- Life Cycle Assessment (LCA)
+- Material Flow Analysis (MFA)
 
 ## Education
 
-
 ### Purdue University (West Lafayette, IN, USA)
-
 
 Doctor of Philosophy (Ph.D.) in Industrial Engineering 
 
 <ins>January 2018 - May 2023</ins>
-
-**Fields of Research**
-- Machine learning
-- Simulation
-- Manufacturing systems
-- Applied statistics
-
-
-**Areas of Intervention**
-- Sustainable manufacturing
-- Circular economy 
-- Techno-economic assessment (TEA)
-- Life cycle assessment (LCA)
-- Software development
-
 
 ### Purdue University (West Lafayette, IN, USA)
 
@@ -46,7 +40,6 @@ Master of Science (M.S.) in Industrial Engineering
 
 <ins>August 2015 - May 2017</ins>
 
-**Main Directions**: Stochastic Modeling, Applied Statistics, Numerical Optimization
 
 ## Academic Experience
 ### Post-Doctoral Research Fellow at the Department of Mechanical Engineering, University of Michigan (2023 - now)
@@ -92,7 +85,7 @@ Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a glo
 ### Office
 Mechanical Engineering, University of Michigan
 
-1100 HH Dow
+Engineering Research Building 5102
 
 Ann Arbor, MI 48109-2125, USA
 
