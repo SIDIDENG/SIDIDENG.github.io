@@ -13,8 +13,8 @@ Mechanical Engineering
 University of Michigan, Ann Arbor, MI 48104, USA
 
 **Fields of Research**
-- Simulation
-- Complex System Modeling
+- Simulation Modeling and Analysis
+- Complex Systems Modeling and Analysis
 - Applied Statistics
 - Physics-Informed Machine learning
 
@@ -92,5 +92,3 @@ Ann Arbor, MI 48109-2125, USA
 ### Other Information
 
 I am affiliated with the [Department of Mechanical Engineering](https://me.engin.umich.edu/) at the University of Michigan - Ann Arbor.
-
-I am from West Lafayette, Tippecanoe County, Indiana, USA.
