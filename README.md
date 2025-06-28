@@ -6,6 +6,8 @@ Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/19feb25.jpeg" ti
 
 Assistant Professor
 
+Thomas J. Watson College of Engineering and Applied Science
+
 State University of New York at Binghamton
 
 4400 Vestal Parkway East, Vestal, NY, USA
@@ -89,4 +91,4 @@ Ann Arbor, MI 48109-2125, USA
 
 ### Other Information
 
-I am affiliated with the [Department of Mechanical Engineering](https://me.engin.umich.edu/) at the University of Michigan - Ann Arbor.
+I am affiliated with the [Engineering Design Division (EDD)](https://www.binghamton.edu/engineering-design/) at Thomas J. Watson College of Engineering and Applied Science.
