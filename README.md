@@ -4,13 +4,11 @@
 
 Sidi Deng, Ph.D. <img align = "right" width = "160" src="/Image/19feb25.jpeg" title = "Biography" >
 
-Postdoctoral Research Fellow
+Assistant Professor
 
-Resourceful Manufacturing & Design (ReMaDe) Group
+State University of New York at Binghamton
 
-Mechanical Engineering
-
-University of Michigan, Ann Arbor, MI 48104, USA
+4400 Vestal Parkway East, Vestal, NY, USA
 
 **Fields of Research**
 - Simulation Modeling and Analysis
@@ -78,7 +76,7 @@ Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a glo
 ## Contact Me:
 
 ### Email 
-- <sidideng@umich.edu>
+- <sdeng6@binghamton.edu>
 - <sdeng@alumni.purdue.edu>
 
 
