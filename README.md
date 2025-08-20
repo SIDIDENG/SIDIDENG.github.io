@@ -42,6 +42,7 @@ Master of Science (M.S.) in Industrial Engineering
 
 
 ## Academic Experience
+### Assistant Professor, Engineering Design Division, State University of New York at Binghamton (2025 - Now)
 ### Post-Doctoral Research Fellow at the Department of Mechanical Engineering, University of Michigan (2023 - 2025)
 - **Metalscape Project**: Opportunities and Costs in the Transition to Low Carbon U.S. Metals Industries
   
@@ -74,7 +75,6 @@ This research program is sponsored by Phinix LLC (St. Louis , MO), in collaborat
 Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a global leader in airline catering and provisioning services.
 
 
-
 ## Contact Me:
 
 ### Email 
@@ -83,11 +83,8 @@ Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a glo
 
 
 ### Office
-Mechanical Engineering, University of Michigan
-
-Engineering Research Building 5102
-
-Ann Arbor, MI 48109-2125, USA
+LN-G105
+Glenn G. Bartle Library, #2200, Binghamton, NY 13902
 
 ### Other Information
 
