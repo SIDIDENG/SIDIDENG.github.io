@@ -19,12 +19,11 @@ State University of New York at Binghamton
 - Physics-Informed Machine learning
 
 
-**Areas of Intervention**
-- Sustainable Manufacturing Systems
-- Circular Economy and Reverse Supply Chains
-- Techno-Economic Assessment (TEA)
-- Life Cycle Assessment (LCA)
-- Material Flow Analysis (MFA)
+**Teaching Interests**
+- Manufacturing Processes and Systems
+- Mechanics of Materials
+- Thermodynamics
+- Industrial Ecology
 
 ## Education
 
@@ -79,7 +78,6 @@ Served as a continuous improvement specialist at Gate Gourmet (Hong Kong), a glo
 
 ### Email 
 - <sdeng6@binghamton.edu>
-- <sdeng@alumni.purdue.edu>
 
 
 ### Office
